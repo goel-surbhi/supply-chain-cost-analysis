@@ -13,9 +13,6 @@ This project analyzes 100,000+ order and courier records to identify cost ineffi
 - Highlighted cost leakage areas
 - Built KPI dashboards for decision-making
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## How to Run
 1. Open the Jupyter Notebook
 2. Install required libraries
